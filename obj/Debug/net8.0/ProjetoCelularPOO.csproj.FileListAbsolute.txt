@@ -1,0 +1,15 @@
+D:\Projetos\ProjetoCelularPOO\bin\Debug\net8.0\ProjetoCelularPOO.exe
+D:\Projetos\ProjetoCelularPOO\bin\Debug\net8.0\ProjetoCelularPOO.deps.json
+D:\Projetos\ProjetoCelularPOO\bin\Debug\net8.0\ProjetoCelularPOO.runtimeconfig.json
+D:\Projetos\ProjetoCelularPOO\bin\Debug\net8.0\ProjetoCelularPOO.dll
+D:\Projetos\ProjetoCelularPOO\bin\Debug\net8.0\ProjetoCelularPOO.pdb
+D:\Projetos\ProjetoCelularPOO\obj\Debug\net8.0\ProjetoCelularPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\ProjetoCelularPOO\obj\Debug\net8.0\ProjetoCelularPOO.AssemblyInfoInputs.cache
+D:\Projetos\ProjetoCelularPOO\obj\Debug\net8.0\ProjetoCelularPOO.AssemblyInfo.cs
+D:\Projetos\ProjetoCelularPOO\obj\Debug\net8.0\ProjetoCelularPOO.csproj.CoreCompileInputs.cache
+D:\Projetos\ProjetoCelularPOO\obj\Debug\net8.0\ProjetoCelularPOO.sourcelink.json
+D:\Projetos\ProjetoCelularPOO\obj\Debug\net8.0\ProjetoCelularPOO.dll
+D:\Projetos\ProjetoCelularPOO\obj\Debug\net8.0\refint\ProjetoCelularPOO.dll
+D:\Projetos\ProjetoCelularPOO\obj\Debug\net8.0\ProjetoCelularPOO.pdb
+D:\Projetos\ProjetoCelularPOO\obj\Debug\net8.0\ProjetoCelularPOO.genruntimeconfig.cache
+D:\Projetos\ProjetoCelularPOO\obj\Debug\net8.0\ref\ProjetoCelularPOO.dll
